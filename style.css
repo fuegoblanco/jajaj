@@ -4,10 +4,12 @@
   box-sizing: border-box;
 }
 body {
-  background: linear-gradient(to left, #7700aa, #8800ff);
+  background-size: cover;
+  background-image: url(https://bafybeihubi2nc55aekzlm6egd7ro64njurwziy4q7gtfav7qdcxllq3ppi.ipfs.w3s.link/tumblr_a27ecde866ab9614637638c30864c543_705db20d_1280.jpg);
   text-align:center;
-  color:#fff;
 }
+
+
 h3{
   text-shadow:1px 1px 1px #fff;
 }
